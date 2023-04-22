@@ -1,0 +1,17 @@
+
+.error input,
+.error textarea {
+    border: solid 2px red;
+}
+
+.error span {
+    color: red;
+}
+
+.formSummeryError {
+    color: red;
+    border: solid 2px red;
+    padding: 5px;
+    display: inline-block;
+
+}
