@@ -50,7 +50,7 @@ class UsersContainer extends React.Component {
 //     return {
 //         users: state.usersPage.users,
 //         pageSize: state.usersPage.pageSize,
-//         totalUsersCount: state.usersPage.totalUsersCount,
+//         totalItemsCount: state.usersPage.totalItemsCount,
 //         currentPage: state.usersPage.currentPage,
 //         isFetching: state.usersPage.isFetching,
 //         toggleIsFollowingProcess: state.usersPage.toggleIsFollowingProcess,
