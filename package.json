@@ -1,6 +1,6 @@
 {
+  "homepage": "https://hermanritter.github.io/demos/",
   "name": "first_app",
-  "homepage": "https://hermanritter.github.io/demo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
